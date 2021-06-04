@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<root>
+<job>
+  <title><![CDATA[Chef de Partie]]></title>
+  <zone><![CDATA[LONDON]]></zone>
+  <location><![CDATA[London]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[A restaurant based in London is looking for a Chef de Partie for a one-off shift.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[700]]></revenue>
+  <hourlyRate><![CDATA[20]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cdp_london_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Lille]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Lille recherche un aide-soignant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[600]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lille_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Lens]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Lens recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[38]]></duration>
+  <revenue><![CDATA[570]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lens_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Tourcoing]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Tourcoing recherche un aide-soignant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[600]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_tourcoing_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Seclin]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Seclin recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_seclin_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Lille]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Lille recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[560]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lille_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Lens]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Lens recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[32]]></duration>
+  <revenue><![CDATA[448]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lens_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Lyon]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Lyon recherche un aide-soignant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[600]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lyon_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Vénissieux]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Vénissieux recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[38]]></duration>
+  <revenue><![CDATA[570]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_venissieux_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Bron]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Bron recherche un aide-soignant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[600]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_bron_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Villeurbanne]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Villeurbanne recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[38]]></duration>
+  <revenue><![CDATA[570]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_villeurbanne_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Lyon]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Lyon recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[560]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lyon_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Villeurbanne]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Villeurbanne recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[32]]></duration>
+  <revenue><![CDATA[448]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_villeurbanne_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Saint-Denis]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Saint-Denis recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[18]]></duration>
+  <revenue><![CDATA[675]]></revenue>
+  <hourlyRate><![CDATA[37,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_saint-denis_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Mantes-la-Jolie]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Mantes-la-Jolie recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[20]]></duration>
+  <revenue><![CDATA[750]]></revenue>
+  <hourlyRate><![CDATA[37,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_mantes_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Courbevoie]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Courbevoie recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[22]]></duration>
+  <revenue><![CDATA[825]]></revenue>
+  <hourlyRate><![CDATA[37,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_courbevoie_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Évry]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un établissement de santé situé à Évry recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.]]></description>
+  <duration><![CDATA[20]]></duration>
+  <revenue><![CDATA[750]]></revenue>
+  <hourlyRate><![CDATA[37,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-courant_evry_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Meaux]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un établissement de santé situé à Meaux recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.]]></description>
+  <duration><![CDATA[18]]></duration>
+  <revenue><![CDATA[675]]></revenue>
+  <hourlyRate><![CDATA[37,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-courant_meaux_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral - Soins techniques]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Melun]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un établissement de santé situé à Melun recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.]]></description>
+  <duration><![CDATA[18]]></duration>
+  <revenue><![CDATA[810]]></revenue>
+  <hourlyRate><![CDATA[45]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-technique_melun_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral -  Tests PCR]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Clamart]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un établissement de santé situé à Clamart recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[20]]></duration>
+  <revenue><![CDATA[1050]]></revenue>
+  <hourlyRate><![CDATA[52,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-pcr_clamart_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral -  Soins à domicile]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Massy]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un établissement de santé situé à Massy recherche un infirmier (H/F) exerçant en libéral pour une mission de renfort sur une tournée à domicile.]]></description>
+  <duration><![CDATA[18]]></duration>
+  <revenue><![CDATA[675]]></revenue>
+  <hourlyRate><![CDATA[37,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-domicile_massy_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Infirmier H/F libéral -  Soins à domicile]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Chelles]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un établissement de santé situé à Chelles recherche un infirmier (H/F) exerçant en libéral pour une mission de renfort sur une tournée à domicile.]]></description>
+  <duration><![CDATA[22]]></duration>
+  <revenue><![CDATA[825]]></revenue>
+  <hourlyRate><![CDATA[37,5]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/infirmier-domicile_chelles_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Saint-Denis]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Saint-Denis recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[600]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-denis_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Montargis]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Montargis recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[38]]></duration>
+  <revenue><![CDATA[570]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_montargis_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Chelles]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Chelles recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_chelles_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Mantes-la-Jolie]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Mantes-la-Jolie recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[40]]></duration>
+  <revenue><![CDATA[600]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_mantes_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Évry]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Évry recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[38]]></duration>
+  <revenue><![CDATA[570]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_evry_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Meaux]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Meaux recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_meaux_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Aubergenville]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Aubergenville recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[38]]></duration>
+  <revenue><![CDATA[570]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_aubergenville_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Creil]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un EHPAD situé à Creil recherche un aide-soignant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant_creil_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-Soignant H/F - Soins à domicile]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Meaux]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un SSIAD situé à Meaux recherche un aide-soignant (H/F) pour une mission de renfort sur une tournée.]]></description>
+  <duration><![CDATA[20]]></duration>
+  <revenue><![CDATA[300]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_meaux_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Aide-Soignant H/F - Soins à domicile]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Palaiseau]]></location>
+  <startDate><![CDATA[15-06-2021]]></startDate>
+  <endDate><![CDATA[18-06-2021]]></endDate>
+  <description><![CDATA[Un SSIAD situé à Palaiseau recherche un aide-soignant (H/F) pour une mission de renfort sur une tournée.]]></description>
+  <duration><![CDATA[20]]></duration>
+  <revenue><![CDATA[300]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_meaux_15-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[BORDEAUX]]></zone>
+  <location><![CDATA[Bordeaux]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Bordeaux recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_bordeaux_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[BORDEAUX]]></zone>
+  <location><![CDATA[Mérignac]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Mérignac recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_merignac_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F]]></title>
+  <zone><![CDATA[BORDEAUX]]></zone>
+  <location><![CDATA[Bordeaux]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Un restaurant faisant de la vente à emporter recherche un commis de cuisine indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[490]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis_bordeaux_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
+  <zone><![CDATA[BORDEAUX]]></zone>
+  <location><![CDATA[Talence]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[27-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Talence recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[70]]></duration>
+  <revenue><![CDATA[980]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis-co_talence_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Lille]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Lille recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_lille_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Roubaix]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Roubaix recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_roubaix_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Tourcoing]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Tourcoing recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_tourcoing_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Lens]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Un restaurant faisant de la vente à emporter recherche un commis de cuisine indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[490]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis_lens_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
+  <zone><![CDATA[LILLE]]></zone>
+  <location><![CDATA[Douai]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Douai recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[490]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis-co_douai_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Villeurbanne]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Villeurbanne recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_villeurbanne_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Lyon]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Lyon recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_lyon_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Vénissieux]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Vénissieux recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_venissieux_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Lyon]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[27-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Lyon recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[70]]></duration>
+  <revenue><![CDATA[980]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis-co_lyon_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
+  <zone><![CDATA[LYON]]></zone>
+  <location><![CDATA[Saint-Etienne]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[27-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Saint-Etienne recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[70]]></duration>
+  <revenue><![CDATA[980]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis-co_saint-etienne_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[MARSEILLE]]></zone>
+  <location><![CDATA[Marseille]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Marseille recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_marseille_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[MARSEILLE]]></zone>
+  <location><![CDATA[La Ciotat]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à La Ciotat recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_laciotat_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
+  <zone><![CDATA[MARSEILLE]]></zone>
+  <location><![CDATA[Aubagne]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Aubagne recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[490]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis-co_aubagne_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
+  <zone><![CDATA[MARSEILLE]]></zone>
+  <location><![CDATA[Aix-en-Provence]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Aix-en-Provence recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[490]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis-co_aix_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Paris]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Paris recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_paris_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Commis de cuisine H/F]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Paris]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Un restaurant faisant de la vente à emporter recherche un commis de cuisine indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[490]]></revenue>
+  <hourlyRate><![CDATA[14]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/commis_paris_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Chef de Partie H/F - Restauration collective]]></title>
+  <zone><![CDATA[PARIS]]></zone>
+  <location><![CDATA[Paris]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Paris recherche un Chef de Partie indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[700]]></revenue>
+  <hourlyRate><![CDATA[20]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cdp_paris_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
+  <zone><![CDATA[STRASBOURG]]></zone>
+  <location><![CDATA[Strasbourg]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Strasbourg recherche un cuisinier indépendant (H/F) pour une mission de renfort.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[525]]></revenue>
+  <hourlyRate><![CDATA[15]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_strasbourg_14-06-2021/]]></URL>
+</job>
+<job>
+  <title><![CDATA[Chef de Partie H/F - Restauration collective]]></title>
+  <zone><![CDATA[STRASBOURG]]></zone>
+  <location><![CDATA[Strasbourg]]></location>
+  <startDate><![CDATA[14-06-2021]]></startDate>
+  <endDate><![CDATA[20-06-2021]]></endDate>
+  <description><![CDATA[Une structure médico-sociale située à Strasbourg recherche un Chef de Partie indépendant (H/F) pour une mission ponctuelle.]]></description>
+  <duration><![CDATA[35]]></duration>
+  <revenue><![CDATA[700]]></revenue>
+  <hourlyRate><![CDATA[20]]></hourlyRate>
+  <URL><![CDATA[https://offers.brigad.co/cdp_strasbourg_14-06-2021/]]></URL>
+</job>
+</root>
