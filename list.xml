@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
 <publisher>Brigad</publisher>
-<publisherurl>https://offers.brigad.co</publisherurl><URL><![CDATA[https://offers.brigad.co/cdp_london_14-06-2021]]></URL>
+<publisherurl>https://offers.brigad.co</publisherurl><job>
+<URL><![CDATA[https://offers.brigad.co/cdp_london_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[London]]></location>
  <refID><![CDATA[cdp_london_14-06-2021]]></refID>
@@ -35,7 +36,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[FREELANCE]]></JobType>
  <revenue><![CDATA[700£ for the mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_lille_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_lille_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[aide-soignant_lille_15-06-2021]]></refID>
@@ -69,7 +71,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[600€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_lens_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_lens_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lens]]></location>
  <refID><![CDATA[aide-soignant_lens_15-06-2021]]></refID>
@@ -103,7 +106,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[570€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_tourcoing_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_tourcoing_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Tourcoing]]></location>
  <refID><![CDATA[aide-soignant_tourcoing_15-06-2021]]></refID>
@@ -137,7 +141,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[600€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_seclin_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_seclin_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Seclin]]></location>
  <refID><![CDATA[aide-soignant_seclin_15-06-2021]]></refID>
@@ -171,7 +176,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lille_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lille_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[auxiliaire-de-vie_lille_14-06-2021]]></refID>
@@ -205,7 +211,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[560€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lens_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lens_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lens]]></location>
  <refID><![CDATA[auxiliaire-de-vie_lens_14-06-2021]]></refID>
@@ -239,7 +246,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[448€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_lyon_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_lyon_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[aide-soignant_lyon_15-06-2021]]></refID>
@@ -273,7 +281,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[600€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_venissieux_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_venissieux_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Vénissieux]]></location>
  <refID><![CDATA[aide-soignant_venissieux_15-06-2021]]></refID>
@@ -307,7 +316,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[570€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_bron_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_bron_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Bron]]></location>
  <refID><![CDATA[aide-soignant_bron_15-06-2021]]></refID>
@@ -341,7 +351,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[600€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_villeurbanne_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_villeurbanne_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
  <refID><![CDATA[aide-soignant_villeurbanne_15-06-2021]]></refID>
@@ -375,7 +386,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[570€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lyon_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lyon_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[auxiliaire-de-vie_lyon_14-06-2021]]></refID>
@@ -409,7 +421,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[560€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_villeurbanne_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_villeurbanne_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
  <refID><![CDATA[auxiliaire-de-vie_villeurbanne_14-06-2021]]></refID>
@@ -443,7 +456,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[448€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_saint-denis_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_saint-denis_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Saint-Denis]]></location>
  <refID><![CDATA[infirmier-ehpad_saint-denis_14-06-2021]]></refID>
@@ -477,7 +491,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[675€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_mantes_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_mantes_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Mantes-la-Jolie]]></location>
  <refID><![CDATA[infirmier-ehpad_mantes_14-06-2021]]></refID>
@@ -511,7 +526,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[750€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_courbevoie_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_courbevoie_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Courbevoie]]></location>
  <refID><![CDATA[infirmier-ehpad_courbevoie_14-06-2021]]></refID>
@@ -545,7 +561,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[825€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-courant_evry_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-courant_evry_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Évry]]></location>
  <refID><![CDATA[infirmier-courant_evry_14-06-2021]]></refID>
@@ -579,7 +596,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[750€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-courant_meaux_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-courant_meaux_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Meaux]]></location>
  <refID><![CDATA[infirmier-courant_meaux_14-06-2021]]></refID>
@@ -613,7 +631,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[675€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-technique_melun_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-technique_melun_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Melun]]></location>
  <refID><![CDATA[infirmier-technique_melun_14-06-2021]]></refID>
@@ -647,7 +666,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[810€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-pcr_clamart_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-pcr_clamart_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Clamart]]></location>
  <refID><![CDATA[infirmier-pcr_clamart_14-06-2021]]></refID>
@@ -681,7 +701,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[1050€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-domicile_massy_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-domicile_massy_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Massy]]></location>
  <refID><![CDATA[infirmier-domicile_massy_14-06-2021]]></refID>
@@ -715,7 +736,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[675€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/infirmier-domicile_chelles_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/infirmier-domicile_chelles_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Chelles]]></location>
  <refID><![CDATA[infirmier-domicile_chelles_14-06-2021]]></refID>
@@ -749,7 +771,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[825€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-denis_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-denis_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Saint-Denis]]></location>
  <refID><![CDATA[aide-soignant_saint-denis_15-06-2021]]></refID>
@@ -783,7 +806,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[600€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_montargis_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_montargis_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Montargis]]></location>
  <refID><![CDATA[aide-soignant_montargis_15-06-2021]]></refID>
@@ -817,7 +841,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[570€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_chelles_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_chelles_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Chelles]]></location>
  <refID><![CDATA[aide-soignant_chelles_15-06-2021]]></refID>
@@ -851,7 +876,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_mantes_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_mantes_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Mantes-la-Jolie]]></location>
  <refID><![CDATA[aide-soignant_mantes_15-06-2021]]></refID>
@@ -885,7 +911,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[600€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_evry_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_evry_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Évry]]></location>
  <refID><![CDATA[aide-soignant_evry_15-06-2021]]></refID>
@@ -919,7 +946,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[570€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_meaux_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_meaux_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Meaux]]></location>
  <refID><![CDATA[aide-soignant_meaux_15-06-2021]]></refID>
@@ -953,7 +981,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_aubergenville_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_aubergenville_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Aubergenville]]></location>
  <refID><![CDATA[aide-soignant_aubergenville_15-06-2021]]></refID>
@@ -987,7 +1016,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[570€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant_creil_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant_creil_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Creil]]></location>
  <refID><![CDATA[aide-soignant_creil_15-06-2021]]></refID>
@@ -1021,7 +1051,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_meaux_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_meaux_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Meaux]]></location>
  <refID><![CDATA[aide-soignant-domicile_meaux_15-06-2021]]></refID>
@@ -1055,7 +1086,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[300€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_meaux_15-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_meaux_15-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Palaiseau]]></location>
  <refID><![CDATA[aide-soignant-domicile_meaux_15-06-2021]]></refID>
@@ -1089,7 +1121,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[300€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_bordeaux_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_bordeaux_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
  <refID><![CDATA[cuisinier-co_bordeaux_14-06-2021]]></refID>
@@ -1123,7 +1156,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_merignac_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_merignac_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Mérignac]]></location>
  <refID><![CDATA[cuisinier-co_merignac_14-06-2021]]></refID>
@@ -1157,7 +1191,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis_bordeaux_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis_bordeaux_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
  <refID><![CDATA[commis_bordeaux_14-06-2021]]></refID>
@@ -1191,7 +1226,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[490€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis-co_talence_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis-co_talence_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Talence]]></location>
  <refID><![CDATA[commis-co_talence_14-06-2021]]></refID>
@@ -1225,7 +1261,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[980€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_lille_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_lille_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[cuisinier-co_lille_14-06-2021]]></refID>
@@ -1259,7 +1296,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_roubaix_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_roubaix_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Roubaix]]></location>
  <refID><![CDATA[cuisinier-co_roubaix_14-06-2021]]></refID>
@@ -1293,7 +1331,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_tourcoing_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_tourcoing_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Tourcoing]]></location>
  <refID><![CDATA[cuisinier-co_tourcoing_14-06-2021]]></refID>
@@ -1327,7 +1366,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis_lens_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis_lens_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lens]]></location>
  <refID><![CDATA[commis_lens_14-06-2021]]></refID>
@@ -1361,7 +1401,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[490€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis-co_douai_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis-co_douai_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Douai]]></location>
  <refID><![CDATA[commis-co_douai_14-06-2021]]></refID>
@@ -1395,7 +1436,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[490€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_villeurbanne_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_villeurbanne_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
  <refID><![CDATA[cuisinier-co_villeurbanne_14-06-2021]]></refID>
@@ -1429,7 +1471,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_lyon_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_lyon_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[cuisinier-co_lyon_14-06-2021]]></refID>
@@ -1463,7 +1506,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_venissieux_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_venissieux_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Vénissieux]]></location>
  <refID><![CDATA[cuisinier-co_venissieux_14-06-2021]]></refID>
@@ -1497,7 +1541,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis-co_lyon_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis-co_lyon_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[commis-co_lyon_14-06-2021]]></refID>
@@ -1531,7 +1576,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[980€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis-co_saint-etienne_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis-co_saint-etienne_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Saint-Etienne]]></location>
  <refID><![CDATA[commis-co_saint-etienne_14-06-2021]]></refID>
@@ -1565,7 +1611,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[980€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_marseille_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_marseille_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[cuisinier-co_marseille_14-06-2021]]></refID>
@@ -1599,7 +1646,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_laciotat_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_laciotat_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[La Ciotat]]></location>
  <refID><![CDATA[cuisinier-co_laciotat_14-06-2021]]></refID>
@@ -1633,7 +1681,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis-co_aubagne_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis-co_aubagne_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Aubagne]]></location>
  <refID><![CDATA[commis-co_aubagne_14-06-2021]]></refID>
@@ -1667,7 +1716,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[490€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis-co_aix_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis-co_aix_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Aix-en-Provence]]></location>
  <refID><![CDATA[commis-co_aix_14-06-2021]]></refID>
@@ -1701,7 +1751,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[490€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_paris_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_paris_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Paris]]></location>
  <refID><![CDATA[cuisinier-co_paris_14-06-2021]]></refID>
@@ -1735,7 +1786,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/commis_paris_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/commis_paris_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Paris]]></location>
  <refID><![CDATA[commis_paris_14-06-2021]]></refID>
@@ -1769,7 +1821,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[490€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cdp_paris_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cdp_paris_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Paris]]></location>
  <refID><![CDATA[cdp_paris_14-06-2021]]></refID>
@@ -1803,7 +1856,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[700€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cuisinier-co_strasbourg_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cuisinier-co_strasbourg_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Strasbourg]]></location>
  <refID><![CDATA[cuisinier-co_strasbourg_14-06-2021]]></refID>
@@ -1837,7 +1891,8 @@
 &lt;/ul&gt;]]></Fulldescription>
  <JobType><![CDATA[INDEPENDANT]]></JobType>
  <revenue><![CDATA[525€ pour la mission]]></revenue>
-</job><URL><![CDATA[https://offers.brigad.co/cdp_strasbourg_14-06-2021]]></URL>
+</job><job>
+<URL><![CDATA[https://offers.brigad.co/cdp_strasbourg_14-06-2021]]></URL>
  <pubDate><![CDATA[09/06/2021]]></pubDate>
  <location><![CDATA[Strasbourg]]></location>
  <refID><![CDATA[cdp_strasbourg_14-06-2021]]></refID>
