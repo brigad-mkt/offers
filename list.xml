@@ -3,7 +3,7 @@
 <publisher>Brigad</publisher>
 <publisherurl>https://offers.brigad.co</publisherurl><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_bordeaux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bordeaux]]></location>
  <slug><![CDATA[serveur_bordeaux_44370]]></slug>
  <title><![CDATA[Serveur H/F]]></title>
@@ -35,10 +35,10 @@
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_pessac_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Pessac]]></location>
  <slug><![CDATA[serveur_pessac_44370]]></slug>
  <title><![CDATA[Serveur H/F]]></title>
@@ -70,10 +70,10 @@
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_bordeaux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bordeaux]]></location>
  <slug><![CDATA[cuisinier-co_bordeaux_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -105,10 +105,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_merignac_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Mérignac]]></location>
  <slug><![CDATA[cuisinier-co_merignac_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -140,10 +140,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis_bordeaux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bordeaux]]></location>
  <slug><![CDATA[commis_bordeaux_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F]]></title>
@@ -175,10 +175,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_pessac_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Pessac]]></location>
  <slug><![CDATA[chef_pessac_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -210,10 +210,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_talence_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Talence]]></location>
  <slug><![CDATA[cuisinier-co_talence_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -245,10 +245,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_bordeaux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bordeaux]]></location>
  <slug><![CDATA[commis-co_bordeaux_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
@@ -280,10 +280,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_bordeaux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bordeaux]]></location>
  <slug><![CDATA[chef_bordeaux_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -315,10 +315,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_talence_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Talence]]></location>
  <slug><![CDATA[commis-co_talence_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
@@ -350,10 +350,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_talence_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Talence]]></location>
  <slug><![CDATA[cuisinier_talence_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -385,10 +385,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_villenave_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villenave-d'Ornon]]></location>
  <slug><![CDATA[cuisinier_villenave_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -420,10 +420,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_douai_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Douai]]></location>
  <slug><![CDATA[commis-co_douai_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
@@ -455,10 +455,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_roubaix_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Roubaix]]></location>
  <slug><![CDATA[cuisinier-co_roubaix_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -490,10 +490,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_lille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lille]]></location>
  <slug><![CDATA[cuisinier-co_lille_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -525,10 +525,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_douai_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Douai]]></location>
  <slug><![CDATA[cuisinier-co_douai_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -560,10 +560,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis_lens_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lens]]></location>
  <slug><![CDATA[commis_lens_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F]]></title>
@@ -595,10 +595,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_lille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lille]]></location>
  <slug><![CDATA[chef_lille_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -630,10 +630,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_tourcoing_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Tourcoing]]></location>
  <slug><![CDATA[serveur_tourcoing_44370]]></slug>
  <title><![CDATA[Serveur H/F]]></title>
@@ -665,10 +665,10 @@
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_lille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lille]]></location>
  <slug><![CDATA[serveur_lille_44370]]></slug>
  <title><![CDATA[Serveur H/F]]></title>
@@ -700,10 +700,10 @@
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_tourcoing_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Tourcoing]]></location>
  <slug><![CDATA[cuisinier-co_tourcoing_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -735,10 +735,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_lens_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lens]]></location>
  <slug><![CDATA[cuisinier_lens_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration Tradi]]></title>
@@ -770,10 +770,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_lille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lille]]></location>
  <slug><![CDATA[cuisinier_lille_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -805,10 +805,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_marcq_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marcq-en-Barœul]]></location>
  <slug><![CDATA[cuisinier_marcq_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -840,10 +840,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[serveur_lyon_44370]]></slug>
  <title><![CDATA[Serveur H/F]]></title>
@@ -875,10 +875,10 @@
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_villeurbanne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villeurbanne]]></location>
  <slug><![CDATA[serveur_villeurbanne_44370]]></slug>
  <title><![CDATA[Serveur H/F]]></title>
@@ -910,10 +910,10 @@
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_caluire_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Caluire-et-Cuire]]></location>
  <slug><![CDATA[chef_caluire_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -945,10 +945,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_venissieux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vénissieux]]></location>
  <slug><![CDATA[chef_venissieux_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -980,10 +980,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_saint-priest_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Saint-Priest]]></location>
  <slug><![CDATA[cuisinier_saint-priest_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -1015,10 +1015,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_bourgoin_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bourgoin-Jallieu​]]></location>
  <slug><![CDATA[cuisinier-co_bourgoin_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1050,10 +1050,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_givors_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Givors]]></location>
  <slug><![CDATA[cuisinier-co_givors_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1085,10 +1085,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[cuisinier-co_lyon_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1120,10 +1120,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_villefranche_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villefranche-sur-Saône​]]></location>
  <slug><![CDATA[cuisinier-co_villefranche_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1155,10 +1155,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_villeurbanne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villeurbanne]]></location>
  <slug><![CDATA[cuisinier-co_villeurbanne_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1190,10 +1190,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[chef_lyon_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -1225,10 +1225,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_villeurbanne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villeurbanne]]></location>
  <slug><![CDATA[cuisinier_villeurbanne_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -1260,10 +1260,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[commis-co_lyon_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
@@ -1295,10 +1295,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_saint-etienne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Saint-Etienne]]></location>
  <slug><![CDATA[commis-co_saint-etienne_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
@@ -1330,10 +1330,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[cuisinier_lyon_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -1365,10 +1365,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_venissieux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vénissieux]]></location>
  <slug><![CDATA[cuisinier-co_venissieux_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1400,10 +1400,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_aix_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Aix-en-Provence]]></location>
  <slug><![CDATA[commis-co_aix_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
@@ -1435,10 +1435,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_marseille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marseille]]></location>
  <slug><![CDATA[cuisinier_marseille_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -1470,10 +1470,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_marseille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marseille]]></location>
  <slug><![CDATA[chef_marseille_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -1505,10 +1505,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_aubagne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Aubagne]]></location>
  <slug><![CDATA[commis-co_aubagne_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
@@ -1540,10 +1540,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_marignane_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marignane]]></location>
  <slug><![CDATA[cuisinier_marignane_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -1575,10 +1575,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_laciotat_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[La Ciotat]]></location>
  <slug><![CDATA[cuisinier-co_laciotat_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1610,10 +1610,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_marseille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marseille]]></location>
  <slug><![CDATA[cuisinier-co_marseille_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1645,10 +1645,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis_paris_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Paris]]></location>
  <slug><![CDATA[commis_paris_44370]]></slug>
  <title><![CDATA[Commis de cuisine H/F]]></title>
@@ -1680,10 +1680,10 @@
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_paris_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Paris]]></location>
  <slug><![CDATA[cdp_paris_44370]]></slug>
  <title><![CDATA[Chef de Partie H/F - Restauration collective]]></title>
@@ -1715,10 +1715,10 @@
 <li><span>Expérience dans le management d’un commis</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_paris_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Paris]]></location>
  <slug><![CDATA[cuisinier-co_paris_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1750,10 +1750,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_strasbourg_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Strasbourg]]></location>
  <slug><![CDATA[cuisinier-co_strasbourg_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
@@ -1785,10 +1785,10 @@
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_bischheim_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bischheim]]></location>
  <slug><![CDATA[cdp_bischheim_44370]]></slug>
  <title><![CDATA[Chef de Partie H/F - Restauration collective]]></title>
@@ -1820,10 +1820,10 @@
 <li><span>Expérience dans le management d’un commis</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_strasbourg_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Strasbourg]]></location>
  <slug><![CDATA[chef_strasbourg_44370]]></slug>
  <title><![CDATA[Chef de cuisine H/F]]></title>
@@ -1855,10 +1855,10 @@
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[20€]]></hourlyRatecurrency>
+ <Salary><![CDATA[20€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_illkirch_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Illkirch-Graffenstaden]]></location>
  <slug><![CDATA[cuisinier_illkirch_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -1890,10 +1890,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_schiltigheim_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Schiltigheim]]></location>
  <slug><![CDATA[cuisinier_schiltigheim_44370]]></slug>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
@@ -1925,10 +1925,10 @@
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_tourcoing_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Tourcoing]]></location>
  <slug><![CDATA[auxiliaire-de-vie_tourcoing_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -1960,10 +1960,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lens_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lens]]></location>
  <slug><![CDATA[auxiliaire-de-vie_lens_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -1995,10 +1995,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lille]]></location>
  <slug><![CDATA[aide-soignant_lille_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2030,10 +2030,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_seclin_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Seclin]]></location>
  <slug><![CDATA[aide-soignant_seclin_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2065,10 +2065,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_mericourt_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Méricourt]]></location>
  <slug><![CDATA[aide-soignant_mericourt_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2100,10 +2100,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lens_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lens]]></location>
  <slug><![CDATA[aide-soignant_lens_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2135,10 +2135,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_villeneuve-a_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villeneuve-d'Ascq]]></location>
  <slug><![CDATA[aide-soignant_villeneuve-a_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2170,10 +2170,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_tourcoing_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Tourcoing]]></location>
  <slug><![CDATA[aide-soignant_tourcoing_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2205,10 +2205,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_roubaix_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Roubaix]]></location>
  <slug><![CDATA[auxiliaire-de-vie_roubaix_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2240,10 +2240,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_arras_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Arras]]></location>
  <slug><![CDATA[aide-soignant_arras_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2275,10 +2275,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_armentieres_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Armentières]]></location>
  <slug><![CDATA[aide-soignant_armentieres_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2310,10 +2310,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lille]]></location>
  <slug><![CDATA[auxiliaire-de-vie_lille_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2345,10 +2345,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_bron_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bron]]></location>
  <slug><![CDATA[aide-soignant_bron_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2380,10 +2380,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_givors_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Givors]]></location>
  <slug><![CDATA[aide-soignant_givors_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2415,10 +2415,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_venissieux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vénissieux]]></location>
  <slug><![CDATA[auxiliaire-de-vie_venissieux_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2450,10 +2450,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_villeurbanne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villeurbanne]]></location>
  <slug><![CDATA[auxiliaire-de-vie_villeurbanne_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2485,10 +2485,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_vaulx_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vaulx-en-Velin]]></location>
  <slug><![CDATA[auxiliaire-de-vie_vaulx_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2520,10 +2520,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_dardilly_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Dardilly]]></location>
  <slug><![CDATA[aide-soignant_dardilly_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2555,10 +2555,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_ecully_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Écully]]></location>
  <slug><![CDATA[aide-soignant_ecully_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2590,10 +2590,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_venissieux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vénissieux]]></location>
  <slug><![CDATA[aide-soignant_venissieux_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2625,10 +2625,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_villeurbanne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Villeurbanne]]></location>
  <slug><![CDATA[aide-soignant_villeurbanne_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2660,10 +2660,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_laval_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Saint-Genis Laval]]></location>
  <slug><![CDATA[aide-soignant_laval_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2695,10 +2695,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[aide-soignant_lyon_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2730,10 +2730,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-priest_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Saint-Priest]]></location>
  <slug><![CDATA[aide-soignant_saint-priest_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2765,10 +2765,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[auxiliaire-de-vie_lyon_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2800,10 +2800,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_neuville_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Neuville sur Saône]]></location>
  <slug><![CDATA[aide-soignant_neuville_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2835,10 +2835,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_la_ciotat_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[La Ciotat]]></location>
  <slug><![CDATA[aide-soignant_la_ciotat_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2870,10 +2870,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_aubagne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Aubagne]]></location>
  <slug><![CDATA[auxiliaire-de-vie_aubagne_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2905,10 +2905,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_marseille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marseille]]></location>
  <slug><![CDATA[aide-soignant_marseille_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -2940,10 +2940,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_marignane_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marignane]]></location>
  <slug><![CDATA[auxiliaire-de-vie_marignane_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -2975,10 +2975,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_aubagne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Aubagne]]></location>
  <slug><![CDATA[aide-soignant_aubagne_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3010,10 +3010,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_gardanne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Gardanne]]></location>
  <slug><![CDATA[aide-soignant_gardanne_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3045,10 +3045,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_vitrolles_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vitrolles]]></location>
  <slug><![CDATA[aide-soignant_vitrolles_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3080,10 +3080,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_marseille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marseille]]></location>
  <slug><![CDATA[auxiliaire-de-vie_marseille_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -3115,10 +3115,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_creil_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Creil]]></location>
  <slug><![CDATA[aide-soignant_creil_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3150,10 +3150,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_sartrouville_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Sartrouville]]></location>
  <slug><![CDATA[aide-soignant-domicile_sartrouville_44370]]></slug>
  <title><![CDATA[Aide-Soignant H/F - Soins à domicile]]></title>
@@ -3185,10 +3185,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_courbevoie_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Courbevoie]]></location>
  <slug><![CDATA[infirmier-ehpad_courbevoie_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
@@ -3220,10 +3220,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_argenteuil_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Argenteuil]]></location>
  <slug><![CDATA[auxiliaire-de-vie_argenteuil_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -3255,10 +3255,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_santeny_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Santeny]]></location>
  <slug><![CDATA[infirmier-ehpad_santeny_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
@@ -3290,10 +3290,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_montreuil_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Montreuil]]></location>
  <slug><![CDATA[infirmier-ehpad_montreuil_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
@@ -3325,10 +3325,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-domicile_nogent-oise_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Nogent-sur-Oise]]></location>
  <slug><![CDATA[infirmier-domicile_nogent-oise_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral -  Soins à domicile]]></title>
@@ -3360,10 +3360,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_chenoise_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Chenoise-Cucharmoy]]></location>
  <slug><![CDATA[infirmier-courant-mas_chenoise_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -3395,10 +3395,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant_boissy-a_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Boissy-l'Aillerie]]></location>
  <slug><![CDATA[infirmier-courant_boissy-a_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -3430,10 +3430,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_epinay_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Epinay-sous-Sénart]]></location>
  <slug><![CDATA[infirmier-ehpad_epinay_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
@@ -3465,10 +3465,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_clamart_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Clamart]]></location>
  <slug><![CDATA[infirmier-courant-mas_clamart_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -3500,10 +3500,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_mantes_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Mantes-la-Jolie]]></location>
  <slug><![CDATA[infirmier-ehpad_mantes_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
@@ -3535,10 +3535,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_evry_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Évry]]></location>
  <slug><![CDATA[infirmier-courant-mas_evry_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -3570,10 +3570,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_bourg_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bourg-la-Reine]]></location>
  <slug><![CDATA[infirmier-ehpad_bourg_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
@@ -3605,10 +3605,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_bagnolet_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Bagnolet]]></location>
  <slug><![CDATA[infirmier-courant-mas_bagnolet_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -3640,10 +3640,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_palaiseau_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Palaiseau]]></location>
  <slug><![CDATA[aide-soignant-domicile_palaiseau_44370]]></slug>
  <title><![CDATA[Aide-Soignant H/F - Soins à domicile]]></title>
@@ -3675,10 +3675,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-domicile_chelles_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Chelles]]></location>
  <slug><![CDATA[infirmier-domicile_chelles_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral -  Soins à domicile]]></title>
@@ -3710,10 +3710,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_dammartin_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Dammartin-en-Goële]]></location>
  <slug><![CDATA[infirmier-ehpad_dammartin_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
@@ -3745,10 +3745,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-fam_saint-maur_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Saint-Maur-des-Fossés]]></location>
  <slug><![CDATA[infirmier-courant-fam_saint-maur_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -3780,10 +3780,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-fam_osny_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Osny]]></location>
  <slug><![CDATA[infirmier-courant-fam_osny_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -3815,10 +3815,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_gazeran_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Gazeran]]></location>
  <slug><![CDATA[auxiliaire-de-vie_gazeran_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -3850,10 +3850,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_meaux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Meaux]]></location>
  <slug><![CDATA[aide-soignant_meaux_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3885,10 +3885,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_vitry_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vitry-sur-Seine]]></location>
  <slug><![CDATA[aide-soignant_vitry_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3920,10 +3920,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_pontault_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Pontault-Combault]]></location>
  <slug><![CDATA[aide-soignant_pontault_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3955,10 +3955,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_sarcelles_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Sarcelles]]></location>
  <slug><![CDATA[aide-soignant_sarcelles_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -3990,10 +3990,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_montargis_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Montargis]]></location>
  <slug><![CDATA[aide-soignant_montargis_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -4025,10 +4025,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_poissy_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Poissy]]></location>
  <slug><![CDATA[aide-soignant_poissy_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -4060,10 +4060,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-denis_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Saint-Denis]]></location>
  <slug><![CDATA[aide-soignant_saint-denis_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -4095,10 +4095,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_saint-denis_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Saint-Denis]]></location>
  <slug><![CDATA[auxiliaire-de-vie_saint-denis_44370]]></slug>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
@@ -4130,10 +4130,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_evry_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Évry]]></location>
  <slug><![CDATA[aide-soignant_evry_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -4165,10 +4165,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_chelles_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Chelles]]></location>
  <slug><![CDATA[aide-soignant_chelles_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -4200,10 +4200,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_maule_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Maule]]></location>
  <slug><![CDATA[aide-soignant_maule_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -4235,10 +4235,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_mantes_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Mantes-la-Jolie]]></location>
  <slug><![CDATA[aide-soignant_mantes_44370]]></slug>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
@@ -4270,10 +4270,10 @@
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[15€]]></hourlyRatecurrency>
+ <Salary><![CDATA[15€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant_corbeil_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Corbeil-Essonnes]]></location>
  <slug><![CDATA[infirmier-courant_corbeil_44370]]></slug>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
@@ -4305,10 +4305,10 @@
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[37,5€]]></hourlyRatecurrency>
+ <Salary><![CDATA[37,5€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_hounslow_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Hounslow]]></location>
  <slug><![CDATA[cdp_hounslow_44370]]></slug>
  <title><![CDATA[Chef de Partie]]></title>
@@ -4340,10 +4340,10 @@
 <li><span>Preparing, cooking and presenting high quality dishes within the speciality section</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[FREELANCE]]></contractType>
- <hourlyRatecurrency><![CDATA[14£]]></hourlyRatecurrency>
+ <Salary><![CDATA[14£]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_london_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[London]]></location>
  <slug><![CDATA[cdp_london_44370]]></slug>
  <title><![CDATA[Chef de Partie]]></title>
@@ -4375,10 +4375,10 @@
 <li><span>Preparing, cooking and presenting high quality dishes within the speciality section</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[FREELANCE]]></contractType>
- <hourlyRatecurrency><![CDATA[14£]]></hourlyRatecurrency>
+ <Salary><![CDATA[14£]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/sous-chef_london_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[London]]></location>
  <slug><![CDATA[sous-chef_london_44370]]></slug>
  <title><![CDATA[Sous Chef]]></title>
@@ -4410,10 +4410,10 @@
 <li><span>Lead kitchen team in chef's absence</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[FREELANCE]]></contractType>
- <hourlyRatecurrency><![CDATA[15£]]></hourlyRatecurrency>
+ <Salary><![CDATA[15£]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-chef_london_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[London]]></location>
  <slug><![CDATA[commis-chef_london_44370]]></slug>
  <title><![CDATA[Commis Chef]]></title>
@@ -4445,10 +4445,10 @@
 <li><span>Following the prep list created by chefs to plan duties</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[FREELANCE]]></contractType>
- <hourlyRatecurrency><![CDATA[12£]]></hourlyRatecurrency>
+ <Salary><![CDATA[12£]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/waiter_london_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[London]]></location>
  <slug><![CDATA[waiter_london_44370]]></slug>
  <title><![CDATA[Waiter]]></title>
@@ -4480,10 +4480,10 @@
 <li><span>Providing excellent wait service to ensure satisfaction</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[FREELANCE]]></contractType>
- <hourlyRatecurrency><![CDATA[12£]]></hourlyRatecurrency>
+ <Salary><![CDATA[12£]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/bartender_london_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[London]]></location>
  <slug><![CDATA[bartender_london_44370]]></slug>
  <title><![CDATA[Bartender]]></title>
@@ -4515,10 +4515,10 @@
 <li><span>Preparing alcoholic or non-alcoholic beverages for bar and patrons</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[FREELANCE]]></contractType>
- <hourlyRatecurrency><![CDATA[12£]]></hourlyRatecurrency>
+ <Salary><![CDATA[12£]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_lille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lille]]></location>
  <slug><![CDATA[aes_lille_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES / AMP)]]></title>
@@ -4550,10 +4550,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_marseille_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Marseille]]></location>
  <slug><![CDATA[aes_marseille_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
@@ -4585,10 +4585,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_lyon_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Lyon]]></location>
  <slug><![CDATA[aes_lyon_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
@@ -4620,10 +4620,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_paris_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Paris]]></location>
  <slug><![CDATA[aes_paris_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
@@ -4655,10 +4655,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_roubaix_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Roubaix]]></location>
  <slug><![CDATA[aes_roubaix_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES / AMP)]]></title>
@@ -4690,10 +4690,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_aubagne_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Aubagne]]></location>
  <slug><![CDATA[aes_aubagne_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
@@ -4725,10 +4725,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_venissieux_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Vénissieux]]></location>
  <slug><![CDATA[aes_venissieux_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
@@ -4760,10 +4760,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes-handi_herblay_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Herblay]]></location>
  <slug><![CDATA[aes-handi_herblay_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social - Spé Handicap H/F (AES)]]></title>
@@ -4795,10 +4795,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_mennecy_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Mennecy]]></location>
  <slug><![CDATA[aes_mennecy_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
@@ -4830,10 +4830,10 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_montreuil_44370]]></URL>
- <pubDate><![CDATA[23/06/2021]]></pubDate>
+ <refID><![CDATA[23/06/2021]]></refID>
  <location><![CDATA[Montreuil]]></location>
  <slug><![CDATA[aes_montreuil_44370]]></slug>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
@@ -4865,5 +4865,5 @@
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
  <contractType><![CDATA[INDEPENDANT]]></contractType>
- <hourlyRatecurrency><![CDATA[14€]]></hourlyRatecurrency>
+ <Salary><![CDATA[14€]]></Salary>
 </job></source>
