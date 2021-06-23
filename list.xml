@@ -3,12 +3,12 @@
 <publisher>Brigad</publisher>
 <publisherurl>https://offers.brigad.co</publisherurl><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_bordeaux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
- <slug><![CDATA[serveur_bordeaux_44370]]></slug>
+ <refID><![CDATA[serveur_bordeaux_44370]]></refID>
  <title><![CDATA[Serveur H/F]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant traditionnel situé à Bordeaux recherche un serveur indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -34,16 +34,16 @@
 <li><span>Respect strict de nos règle sanitaires et nos protocoles de nettoyage</span></li>
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_pessac_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Pessac]]></location>
- <slug><![CDATA[serveur_pessac_44370]]></slug>
+ <refID><![CDATA[serveur_pessac_44370]]></refID>
  <title><![CDATA[Serveur H/F]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant situé à Pessac recherche un serveur indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -69,16 +69,16 @@
 <li><span>Respect strict de nos règle sanitaires et nos protocoles de nettoyage</span></li>
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_bordeaux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
- <slug><![CDATA[cuisinier-co_bordeaux_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_bordeaux_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Bordeaux recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -104,16 +104,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_merignac_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Mérignac]]></location>
- <slug><![CDATA[cuisinier-co_merignac_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_merignac_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Mérignac recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -139,16 +139,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis_bordeaux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
- <slug><![CDATA[commis_bordeaux_44370]]></slug>
+ <refID><![CDATA[commis_bordeaux_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant faisant de la vente à emporter recherche un commis de cuisine indépendant (H/F) pour une mission de renfort.</span></p>
@@ -174,16 +174,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_pessac_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Pessac]]></location>
- <slug><![CDATA[chef_pessac_44370]]></slug>
+ <refID><![CDATA[chef_pessac_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Pessac recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -209,16 +209,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_talence_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Talence]]></location>
- <slug><![CDATA[cuisinier-co_talence_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_talence_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Talence recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -244,16 +244,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_bordeaux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
- <slug><![CDATA[commis-co_bordeaux_44370]]></slug>
+ <refID><![CDATA[commis-co_bordeaux_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Bordeaux recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -279,16 +279,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_bordeaux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
- <slug><![CDATA[chef_bordeaux_44370]]></slug>
+ <refID><![CDATA[chef_bordeaux_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[08/07/2021]]></startDate>
- <endDate><![CDATA[22/07/2021]]></endDate>
+ <dateDeb><![CDATA[08/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[22/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Bordeaux recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -314,16 +314,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_talence_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Talence]]></location>
- <slug><![CDATA[commis-co_talence_44370]]></slug>
+ <refID><![CDATA[commis-co_talence_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
- <startDate><![CDATA[08/07/2021]]></startDate>
- <endDate><![CDATA[22/07/2021]]></endDate>
+ <dateDeb><![CDATA[08/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[22/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Talence recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -349,16 +349,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_talence_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Talence]]></location>
- <slug><![CDATA[cuisinier_talence_44370]]></slug>
+ <refID><![CDATA[cuisinier_talence_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[16/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[16/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Talence recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -384,16 +384,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_villenave_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villenave-d'Ornon]]></location>
- <slug><![CDATA[cuisinier_villenave_44370]]></slug>
+ <refID><![CDATA[cuisinier_villenave_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[17/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[17/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Villenave-d'Ornon recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -419,16 +419,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_douai_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Douai]]></location>
- <slug><![CDATA[commis-co_douai_44370]]></slug>
+ <refID><![CDATA[commis-co_douai_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Douai recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -454,16 +454,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_roubaix_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Roubaix]]></location>
- <slug><![CDATA[cuisinier-co_roubaix_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_roubaix_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Roubaix recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -489,16 +489,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_lille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
- <slug><![CDATA[cuisinier-co_lille_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_lille_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Lille recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -524,16 +524,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_douai_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Douai]]></location>
- <slug><![CDATA[cuisinier-co_douai_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_douai_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Douai recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -559,16 +559,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis_lens_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lens]]></location>
- <slug><![CDATA[commis_lens_44370]]></slug>
+ <refID><![CDATA[commis_lens_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant faisant de la vente à emporter recherche un commis de cuisine indépendant (H/F) pour une mission de renfort.</span></p>
@@ -594,16 +594,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_lille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
- <slug><![CDATA[chef_lille_44370]]></slug>
+ <refID><![CDATA[chef_lille_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Lille recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -629,16 +629,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_tourcoing_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Tourcoing]]></location>
- <slug><![CDATA[serveur_tourcoing_44370]]></slug>
+ <refID><![CDATA[serveur_tourcoing_44370]]></refID>
  <title><![CDATA[Serveur H/F]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant traditionnel situé à Tourcoing recherche un serveur indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -664,16 +664,16 @@
 <li><span>Respect strict de nos règle sanitaires et nos protocoles de nettoyage</span></li>
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_lille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
- <slug><![CDATA[serveur_lille_44370]]></slug>
+ <refID><![CDATA[serveur_lille_44370]]></refID>
  <title><![CDATA[Serveur H/F]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant situé à Lille recherche un serveur indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -699,16 +699,16 @@
 <li><span>Respect strict de nos règle sanitaires et nos protocoles de nettoyage</span></li>
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_tourcoing_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Tourcoing]]></location>
- <slug><![CDATA[cuisinier-co_tourcoing_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_tourcoing_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[16/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[16/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Tourcoing recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -734,16 +734,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_lens_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lens]]></location>
- <slug><![CDATA[cuisinier_lens_44370]]></slug>
+ <refID><![CDATA[cuisinier_lens_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration Tradi]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[16/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[16/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une redstaurant situé à Lens recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -769,16 +769,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_lille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
- <slug><![CDATA[cuisinier_lille_44370]]></slug>
+ <refID><![CDATA[cuisinier_lille_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[17/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[17/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Lille recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -804,16 +804,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_marcq_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marcq-en-Barœul]]></location>
- <slug><![CDATA[cuisinier_marcq_44370]]></slug>
+ <refID><![CDATA[cuisinier_marcq_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[17/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[17/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Marcq-en-Barœul recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -839,16 +839,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[serveur_lyon_44370]]></slug>
+ <refID><![CDATA[serveur_lyon_44370]]></refID>
  <title><![CDATA[Serveur H/F]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant traditionnel situé à Lyon recherche un serveur indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -874,16 +874,16 @@
 <li><span>Respect strict de nos règle sanitaires et nos protocoles de nettoyage</span></li>
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/serveur_villeurbanne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
- <slug><![CDATA[serveur_villeurbanne_44370]]></slug>
+ <refID><![CDATA[serveur_villeurbanne_44370]]></refID>
  <title><![CDATA[Serveur H/F]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant traditionnel situé à Villeurbanne recherche un serveur indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -909,16 +909,16 @@
 <li><span>Respect strict de nos règle sanitaires et nos protocoles de nettoyage</span></li>
 <li><span>Prise des commandes et service à table</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_caluire_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Caluire-et-Cuire]]></location>
- <slug><![CDATA[chef_caluire_44370]]></slug>
+ <refID><![CDATA[chef_caluire_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Caluire-et-Cuire recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -944,16 +944,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_venissieux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vénissieux]]></location>
- <slug><![CDATA[chef_venissieux_44370]]></slug>
+ <refID><![CDATA[chef_venissieux_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Vénissieux recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -979,16 +979,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_saint-priest_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Saint-Priest]]></location>
- <slug><![CDATA[cuisinier_saint-priest_44370]]></slug>
+ <refID><![CDATA[cuisinier_saint-priest_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant situé à Saint-Priest recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1014,16 +1014,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_bourgoin_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bourgoin-Jallieu​]]></location>
- <slug><![CDATA[cuisinier-co_bourgoin_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_bourgoin_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Bourgoin-Jallieu​ recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1049,16 +1049,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_givors_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Givors]]></location>
- <slug><![CDATA[cuisinier-co_givors_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_givors_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Givors recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1084,16 +1084,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[cuisinier-co_lyon_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_lyon_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Lyon recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1119,16 +1119,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_villefranche_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villefranche-sur-Saône​]]></location>
- <slug><![CDATA[cuisinier-co_villefranche_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_villefranche_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Villefranche-sur-Saône​ recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1154,16 +1154,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_villeurbanne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
- <slug><![CDATA[cuisinier-co_villeurbanne_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_villeurbanne_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Villeurbanne recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1189,16 +1189,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[chef_lyon_44370]]></slug>
+ <refID><![CDATA[chef_lyon_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Lyon recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1224,16 +1224,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_villeurbanne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
- <slug><![CDATA[cuisinier_villeurbanne_44370]]></slug>
+ <refID><![CDATA[cuisinier_villeurbanne_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Villeurbanne recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1259,16 +1259,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[commis-co_lyon_44370]]></slug>
+ <refID><![CDATA[commis-co_lyon_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[15/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[15/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Lyon recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1294,16 +1294,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_saint-etienne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Saint-Etienne]]></location>
- <slug><![CDATA[commis-co_saint-etienne_44370]]></slug>
+ <refID><![CDATA[commis-co_saint-etienne_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
- <startDate><![CDATA[08/07/2021]]></startDate>
- <endDate><![CDATA[21/07/2021]]></endDate>
+ <dateDeb><![CDATA[08/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[21/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Saint-Etienne recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1329,16 +1329,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[cuisinier_lyon_44370]]></slug>
+ <refID><![CDATA[cuisinier_lyon_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[16/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[16/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Lyon recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1364,16 +1364,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_venissieux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vénissieux]]></location>
- <slug><![CDATA[cuisinier-co_venissieux_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_venissieux_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[16/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[16/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Vénissieux recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1399,16 +1399,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_aix_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Aix-en-Provence]]></location>
- <slug><![CDATA[commis-co_aix_44370]]></slug>
+ <refID><![CDATA[commis-co_aix_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Aix-en-Provence recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1434,16 +1434,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_marseille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marseille]]></location>
- <slug><![CDATA[cuisinier_marseille_44370]]></slug>
+ <refID><![CDATA[cuisinier_marseille_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant situé à Marseille recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1469,16 +1469,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_marseille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marseille]]></location>
- <slug><![CDATA[chef_marseille_44370]]></slug>
+ <refID><![CDATA[chef_marseille_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Marseille recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1504,16 +1504,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-co_aubagne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Aubagne]]></location>
- <slug><![CDATA[commis-co_aubagne_44370]]></slug>
+ <refID><![CDATA[commis-co_aubagne_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Aubagne recherche un commis de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1539,16 +1539,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_marignane_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marignane]]></location>
- <slug><![CDATA[cuisinier_marignane_44370]]></slug>
+ <refID><![CDATA[cuisinier_marignane_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Marignane recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1574,16 +1574,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_laciotat_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[La Ciotat]]></location>
- <slug><![CDATA[cuisinier-co_laciotat_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_laciotat_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[15/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[15/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à La Ciotat recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1609,16 +1609,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_marseille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marseille]]></location>
- <slug><![CDATA[cuisinier-co_marseille_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_marseille_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[17/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[17/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Marseille recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1644,16 +1644,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis_paris_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Paris]]></location>
- <slug><![CDATA[commis_paris_44370]]></slug>
+ <refID><![CDATA[commis_paris_44370]]></refID>
  <title><![CDATA[Commis de cuisine H/F]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant faisant de la vente à emporter recherche un commis de cuisine indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1679,16 +1679,16 @@
 <li><span></span></li>
 <li><span>Préparations, découpes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_paris_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Paris]]></location>
- <slug><![CDATA[cdp_paris_44370]]></slug>
+ <refID><![CDATA[cdp_paris_44370]]></refID>
  <title><![CDATA[Chef de Partie H/F - Restauration collective]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Paris recherche un Chef de Partie indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1714,16 +1714,16 @@
 <li><span></span></li>
 <li><span>Expérience dans le management d’un commis</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_paris_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Paris]]></location>
- <slug><![CDATA[cuisinier-co_paris_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_paris_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Paris recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1749,16 +1749,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier-co_strasbourg_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Strasbourg]]></location>
- <slug><![CDATA[cuisinier-co_strasbourg_44370]]></slug>
+ <refID><![CDATA[cuisinier-co_strasbourg_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Restauration collective]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Strasbourg recherche un cuisinier indépendant (H/F) pour une mission de renfort.</span></p>
@@ -1784,16 +1784,16 @@
 <li><span></span></li>
 <li><span>Elaborez l’ensemble des préparations alimentaires dans le respect des régimes et textures recommandés</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_bischheim_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bischheim]]></location>
- <slug><![CDATA[cdp_bischheim_44370]]></slug>
+ <refID><![CDATA[cdp_bischheim_44370]]></refID>
  <title><![CDATA[Chef de Partie H/F - Restauration collective]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une structure médico-sociale située à Bischheim recherche un Chef de Partie indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1819,16 +1819,16 @@
 <li><span></span></li>
 <li><span>Expérience dans le management d’un commis</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/chef_strasbourg_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Strasbourg]]></location>
- <slug><![CDATA[chef_strasbourg_44370]]></slug>
+ <refID><![CDATA[chef_strasbourg_44370]]></refID>
  <title><![CDATA[Chef de cuisine H/F]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un restaurant situé à Strasbourg recherche un Chef de cuisine indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1854,16 +1854,16 @@
 <li><span>Management d'équipe, formations</span></li>
 <li><span>Création des recettes et des fiches techniques</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[20€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[20€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_illkirch_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Illkirch-Graffenstaden]]></location>
- <slug><![CDATA[cuisinier_illkirch_44370]]></slug>
+ <refID><![CDATA[cuisinier_illkirch_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une restaurant situé à Illkirch-Graffenstaden recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1889,16 +1889,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cuisinier_schiltigheim_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Schiltigheim]]></location>
- <slug><![CDATA[cuisinier_schiltigheim_44370]]></slug>
+ <refID><![CDATA[cuisinier_schiltigheim_44370]]></refID>
  <title><![CDATA[Cuisinier H/F - Brasserie]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une brasserie située à Schiltigheim recherche un cuisinier indépendant (H/F) pour une mission ponctuelle.</span></p>
@@ -1924,16 +1924,16 @@
 <li><span></span></li>
 <li><span>Découpe des fruits et légumes</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_tourcoing_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Tourcoing]]></location>
- <slug><![CDATA[auxiliaire-de-vie_tourcoing_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_tourcoing_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[31/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[31/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Tourcoing recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -1959,16 +1959,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lens_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lens]]></location>
- <slug><![CDATA[auxiliaire-de-vie_lens_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_lens_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[31/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[31/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Lens recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -1994,16 +1994,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
- <slug><![CDATA[aide-soignant_lille_44370]]></slug>
+ <refID><![CDATA[aide-soignant_lille_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[03/08/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[03/08/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Lille recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -2029,16 +2029,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_seclin_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Seclin]]></location>
- <slug><![CDATA[aide-soignant_seclin_44370]]></slug>
+ <refID><![CDATA[aide-soignant_seclin_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[01/08/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[01/08/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Seclin recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2064,16 +2064,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_mericourt_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Méricourt]]></location>
- <slug><![CDATA[aide-soignant_mericourt_44370]]></slug>
+ <refID><![CDATA[aide-soignant_mericourt_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Méricourt recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2099,16 +2099,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lens_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lens]]></location>
- <slug><![CDATA[aide-soignant_lens_44370]]></slug>
+ <refID><![CDATA[aide-soignant_lens_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Lens recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2134,16 +2134,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_villeneuve-a_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villeneuve-d'Ascq]]></location>
- <slug><![CDATA[aide-soignant_villeneuve-a_44370]]></slug>
+ <refID><![CDATA[aide-soignant_villeneuve-a_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Villeneuve-d'Ascq recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2169,16 +2169,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_tourcoing_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Tourcoing]]></location>
- <slug><![CDATA[aide-soignant_tourcoing_44370]]></slug>
+ <refID><![CDATA[aide-soignant_tourcoing_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Tourcoing recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2204,16 +2204,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_roubaix_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Roubaix]]></location>
- <slug><![CDATA[auxiliaire-de-vie_roubaix_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_roubaix_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Roubaix recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2239,16 +2239,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_arras_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Arras]]></location>
- <slug><![CDATA[aide-soignant_arras_44370]]></slug>
+ <refID><![CDATA[aide-soignant_arras_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Arras recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -2274,16 +2274,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_armentieres_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Armentières]]></location>
- <slug><![CDATA[aide-soignant_armentieres_44370]]></slug>
+ <refID><![CDATA[aide-soignant_armentieres_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Armentières recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -2309,16 +2309,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
- <slug><![CDATA[auxiliaire-de-vie_lille_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_lille_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Lille recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2344,16 +2344,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_bron_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bron]]></location>
- <slug><![CDATA[aide-soignant_bron_44370]]></slug>
+ <refID><![CDATA[aide-soignant_bron_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[26/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[26/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Bron recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -2379,16 +2379,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_givors_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Givors]]></location>
- <slug><![CDATA[aide-soignant_givors_44370]]></slug>
+ <refID><![CDATA[aide-soignant_givors_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[04/08/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[04/08/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Givors recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2414,16 +2414,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_venissieux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vénissieux]]></location>
- <slug><![CDATA[auxiliaire-de-vie_venissieux_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_venissieux_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[03/08/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[03/08/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Vénissieux recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2449,16 +2449,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_villeurbanne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
- <slug><![CDATA[auxiliaire-de-vie_villeurbanne_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_villeurbanne_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Villeurbanne recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2484,16 +2484,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_vaulx_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vaulx-en-Velin]]></location>
- <slug><![CDATA[auxiliaire-de-vie_vaulx_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_vaulx_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Vaulx-en-Velin recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2519,16 +2519,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_dardilly_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Dardilly]]></location>
- <slug><![CDATA[aide-soignant_dardilly_44370]]></slug>
+ <refID><![CDATA[aide-soignant_dardilly_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Dardilly recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2554,16 +2554,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_ecully_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Écully]]></location>
- <slug><![CDATA[aide-soignant_ecully_44370]]></slug>
+ <refID><![CDATA[aide-soignant_ecully_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Écully recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2589,16 +2589,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_venissieux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vénissieux]]></location>
- <slug><![CDATA[aide-soignant_venissieux_44370]]></slug>
+ <refID><![CDATA[aide-soignant_venissieux_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Vénissieux recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2624,16 +2624,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_villeurbanne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
- <slug><![CDATA[aide-soignant_villeurbanne_44370]]></slug>
+ <refID><![CDATA[aide-soignant_villeurbanne_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Villeurbanne recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2659,16 +2659,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_laval_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Saint-Genis Laval]]></location>
- <slug><![CDATA[aide-soignant_laval_44370]]></slug>
+ <refID><![CDATA[aide-soignant_laval_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Saint-Genis Laval recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2694,16 +2694,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[aide-soignant_lyon_44370]]></slug>
+ <refID><![CDATA[aide-soignant_lyon_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Lyon recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -2729,16 +2729,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-priest_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Saint-Priest]]></location>
- <slug><![CDATA[aide-soignant_saint-priest_44370]]></slug>
+ <refID><![CDATA[aide-soignant_saint-priest_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Saint-Priest recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2764,16 +2764,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[auxiliaire-de-vie_lyon_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_lyon_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Lyon recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2799,16 +2799,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_neuville_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Neuville sur Saône]]></location>
- <slug><![CDATA[aide-soignant_neuville_44370]]></slug>
+ <refID><![CDATA[aide-soignant_neuville_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Neuville sur Saône recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2834,16 +2834,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_la_ciotat_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[La Ciotat]]></location>
- <slug><![CDATA[aide-soignant_la_ciotat_44370]]></slug>
+ <refID><![CDATA[aide-soignant_la_ciotat_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[26/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[26/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à La Ciotat recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -2869,16 +2869,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_aubagne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Aubagne]]></location>
- <slug><![CDATA[auxiliaire-de-vie_aubagne_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_aubagne_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[27/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[27/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Aubagne recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2904,16 +2904,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_marseille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marseille]]></location>
- <slug><![CDATA[aide-soignant_marseille_44370]]></slug>
+ <refID><![CDATA[aide-soignant_marseille_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Marseille recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -2939,16 +2939,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_marignane_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marignane]]></location>
- <slug><![CDATA[auxiliaire-de-vie_marignane_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_marignane_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Marignane recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -2974,16 +2974,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_aubagne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Aubagne]]></location>
- <slug><![CDATA[aide-soignant_aubagne_44370]]></slug>
+ <refID><![CDATA[aide-soignant_aubagne_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Aubagne recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -3009,16 +3009,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_gardanne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Gardanne]]></location>
- <slug><![CDATA[aide-soignant_gardanne_44370]]></slug>
+ <refID><![CDATA[aide-soignant_gardanne_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Gardanne recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -3044,16 +3044,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_vitrolles_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vitrolles]]></location>
- <slug><![CDATA[aide-soignant_vitrolles_44370]]></slug>
+ <refID><![CDATA[aide-soignant_vitrolles_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Vitrolles recherche un aide-soignant (H/F) pour une mission de renfort.</span></p>
@@ -3079,16 +3079,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_marseille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marseille]]></location>
- <slug><![CDATA[auxiliaire-de-vie_marseille_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_marseille_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Marseille recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -3114,16 +3114,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_creil_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Creil]]></location>
- <slug><![CDATA[aide-soignant_creil_44370]]></slug>
+ <refID><![CDATA[aide-soignant_creil_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[28/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[28/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Creil recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -3149,16 +3149,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_sartrouville_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Sartrouville]]></location>
- <slug><![CDATA[aide-soignant-domicile_sartrouville_44370]]></slug>
+ <refID><![CDATA[aide-soignant-domicile_sartrouville_44370]]></refID>
  <title><![CDATA[Aide-Soignant H/F - Soins à domicile]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[23/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[23/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un SSIAD situé à Sartrouville recherche un aide-soignant (H/F) pour une mission de renfort sur une tournée.</span></p>
@@ -3184,16 +3184,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_courbevoie_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Courbevoie]]></location>
- <slug><![CDATA[infirmier-ehpad_courbevoie_44370]]></slug>
+ <refID><![CDATA[infirmier-ehpad_courbevoie_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
- <startDate><![CDATA[30/06/2021]]></startDate>
- <endDate><![CDATA[19/07/2021]]></endDate>
+ <dateDeb><![CDATA[30/06/2021]]></dateDeb>
+ <dateEnd><![CDATA[19/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Courbevoie recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.</span></p>
@@ -3219,16 +3219,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_argenteuil_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Argenteuil]]></location>
- <slug><![CDATA[auxiliaire-de-vie_argenteuil_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_argenteuil_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[22/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[22/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Argenteuil recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -3254,16 +3254,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_santeny_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Santeny]]></location>
- <slug><![CDATA[infirmier-ehpad_santeny_44370]]></slug>
+ <refID><![CDATA[infirmier-ehpad_santeny_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
- <startDate><![CDATA[30/06/2021]]></startDate>
- <endDate><![CDATA[02/07/2021]]></endDate>
+ <dateDeb><![CDATA[30/06/2021]]></dateDeb>
+ <dateEnd><![CDATA[02/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Santeny recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.</span></p>
@@ -3289,16 +3289,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_montreuil_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Montreuil]]></location>
- <slug><![CDATA[infirmier-ehpad_montreuil_44370]]></slug>
+ <refID><![CDATA[infirmier-ehpad_montreuil_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[05/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[05/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Montreuil recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.</span></p>
@@ -3324,16 +3324,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-domicile_nogent-oise_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Nogent-sur-Oise]]></location>
- <slug><![CDATA[infirmier-domicile_nogent-oise_44370]]></slug>
+ <refID><![CDATA[infirmier-domicile_nogent-oise_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral -  Soins à domicile]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Nogent-sur-Oise recherche un infirmier (H/F) exerçant en libéral pour une mission de renfort sur une tournée à domicile.</span></p>
@@ -3359,16 +3359,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_chenoise_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Chenoise-Cucharmoy]]></location>
- <slug><![CDATA[infirmier-courant-mas_chenoise_44370]]></slug>
+ <refID><![CDATA[infirmier-courant-mas_chenoise_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une MAS située à Chenoise-Cucharmoy recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -3394,16 +3394,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant_boissy-a_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Boissy-l'Aillerie]]></location>
- <slug><![CDATA[infirmier-courant_boissy-a_44370]]></slug>
+ <refID><![CDATA[infirmier-courant_boissy-a_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[04/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[04/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Boissy-l'Aillerie recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -3429,16 +3429,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_epinay_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Epinay-sous-Sénart]]></location>
- <slug><![CDATA[infirmier-ehpad_epinay_44370]]></slug>
+ <refID><![CDATA[infirmier-ehpad_epinay_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
- <startDate><![CDATA[30/06/2021]]></startDate>
- <endDate><![CDATA[03/07/2021]]></endDate>
+ <dateDeb><![CDATA[30/06/2021]]></dateDeb>
+ <dateEnd><![CDATA[03/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Epinay-sous-Sénart recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.</span></p>
@@ -3464,16 +3464,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_clamart_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Clamart]]></location>
- <slug><![CDATA[infirmier-courant-mas_clamart_44370]]></slug>
+ <refID><![CDATA[infirmier-courant-mas_clamart_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une MAS située à Clamart recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -3499,16 +3499,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_mantes_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Mantes-la-Jolie]]></location>
- <slug><![CDATA[infirmier-ehpad_mantes_44370]]></slug>
+ <refID><![CDATA[infirmier-ehpad_mantes_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Mantes-la-Jolie recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.</span></p>
@@ -3534,16 +3534,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_evry_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Évry]]></location>
- <slug><![CDATA[infirmier-courant-mas_evry_44370]]></slug>
+ <refID><![CDATA[infirmier-courant-mas_evry_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une MAS située à Évry recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -3569,16 +3569,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_bourg_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bourg-la-Reine]]></location>
- <slug><![CDATA[infirmier-ehpad_bourg_44370]]></slug>
+ <refID><![CDATA[infirmier-ehpad_bourg_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Bourg-la-Reine recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.</span></p>
@@ -3604,16 +3604,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-mas_bagnolet_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Bagnolet]]></location>
- <slug><![CDATA[infirmier-courant-mas_bagnolet_44370]]></slug>
+ <refID><![CDATA[infirmier-courant-mas_bagnolet_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Une MAS située à Bagnolet recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -3639,16 +3639,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_palaiseau_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Palaiseau]]></location>
- <slug><![CDATA[aide-soignant-domicile_palaiseau_44370]]></slug>
+ <refID><![CDATA[aide-soignant-domicile_palaiseau_44370]]></refID>
  <title><![CDATA[Aide-Soignant H/F - Soins à domicile]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un SSIAD situé à Palaiseau recherche un aide-soignant (H/F) pour une mission de renfort sur une tournée.</span></p>
@@ -3674,16 +3674,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-domicile_chelles_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Chelles]]></location>
- <slug><![CDATA[infirmier-domicile_chelles_44370]]></slug>
+ <refID><![CDATA[infirmier-domicile_chelles_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral -  Soins à domicile]]></title>
- <startDate><![CDATA[04/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[04/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Chelles recherche un infirmier (H/F) exerçant en libéral pour une mission de renfort sur une tournée à domicile.</span></p>
@@ -3709,16 +3709,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-ehpad_dammartin_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Dammartin-en-Goële]]></location>
- <slug><![CDATA[infirmier-ehpad_dammartin_44370]]></slug>
+ <refID><![CDATA[infirmier-ehpad_dammartin_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - EHPAD]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Dammartin-en-Goële recherche un infirmier (H/F) exerçant en libéral pour une mission ponctuelle.</span></p>
@@ -3744,16 +3744,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-fam_saint-maur_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Saint-Maur-des-Fossés]]></location>
- <slug><![CDATA[infirmier-courant-fam_saint-maur_44370]]></slug>
+ <refID><![CDATA[infirmier-courant-fam_saint-maur_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un foyer d'accueil médicalisé situé à Saint-Maur-des-Fossés recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -3779,16 +3779,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant-fam_osny_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Osny]]></location>
- <slug><![CDATA[infirmier-courant-fam_osny_44370]]></slug>
+ <refID><![CDATA[infirmier-courant-fam_osny_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un foyer d'accueil médicalisé situé à Osny recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -3814,16 +3814,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_gazeran_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Gazeran]]></location>
- <slug><![CDATA[auxiliaire-de-vie_gazeran_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_gazeran_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[06/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[06/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Gazeran recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -3849,16 +3849,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_meaux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Meaux]]></location>
- <slug><![CDATA[aide-soignant_meaux_44370]]></slug>
+ <refID><![CDATA[aide-soignant_meaux_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Meaux recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -3884,16 +3884,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_vitry_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vitry-sur-Seine]]></location>
- <slug><![CDATA[aide-soignant_vitry_44370]]></slug>
+ <refID><![CDATA[aide-soignant_vitry_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Vitry-sur-Seine recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -3919,16 +3919,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_pontault_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Pontault-Combault]]></location>
- <slug><![CDATA[aide-soignant_pontault_44370]]></slug>
+ <refID><![CDATA[aide-soignant_pontault_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Pontault-Combault recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -3954,16 +3954,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_sarcelles_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Sarcelles]]></location>
- <slug><![CDATA[aide-soignant_sarcelles_44370]]></slug>
+ <refID><![CDATA[aide-soignant_sarcelles_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[10/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[10/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Sarcelles recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -3989,16 +3989,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_montargis_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Montargis]]></location>
- <slug><![CDATA[aide-soignant_montargis_44370]]></slug>
+ <refID><![CDATA[aide-soignant_montargis_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Montargis recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -4024,16 +4024,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_poissy_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Poissy]]></location>
- <slug><![CDATA[aide-soignant_poissy_44370]]></slug>
+ <refID><![CDATA[aide-soignant_poissy_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Poissy recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -4059,16 +4059,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-denis_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Saint-Denis]]></location>
- <slug><![CDATA[aide-soignant_saint-denis_44370]]></slug>
+ <refID><![CDATA[aide-soignant_saint-denis_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Saint-Denis recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -4094,16 +4094,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_saint-denis_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Saint-Denis]]></location>
- <slug><![CDATA[auxiliaire-de-vie_saint-denis_44370]]></slug>
+ <refID><![CDATA[auxiliaire-de-vie_saint-denis_44370]]></refID>
  <title><![CDATA[Auxiliaire de Vie H/F - Indépendant​]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[13/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[13/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Saint-Denis recherche un auxiliaire de vie (H/F) pour une mission ponctuelle.</span></p>
@@ -4129,16 +4129,16 @@
 <li><span>Contribuer à la vie sociale des résidents</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_evry_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Évry]]></location>
- <slug><![CDATA[aide-soignant_evry_44370]]></slug>
+ <refID><![CDATA[aide-soignant_evry_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[08/07/2021]]></startDate>
- <endDate><![CDATA[22/07/2021]]></endDate>
+ <dateDeb><![CDATA[08/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[22/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Évry recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -4164,16 +4164,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_chelles_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Chelles]]></location>
- <slug><![CDATA[aide-soignant_chelles_44370]]></slug>
+ <refID><![CDATA[aide-soignant_chelles_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[18/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[18/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Chelles recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -4199,16 +4199,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_maule_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Maule]]></location>
- <slug><![CDATA[aide-soignant_maule_44370]]></slug>
+ <refID><![CDATA[aide-soignant_maule_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[15/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[15/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Maule recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -4234,16 +4234,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aide-soignant_mantes_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Mantes-la-Jolie]]></location>
- <slug><![CDATA[aide-soignant_mantes_44370]]></slug>
+ <refID><![CDATA[aide-soignant_mantes_44370]]></refID>
  <title><![CDATA[Aide-soignant H/F - Indépendant]]></title>
- <startDate><![CDATA[07/07/2021]]></startDate>
- <endDate><![CDATA[20/07/2021]]></endDate>
+ <dateDeb><![CDATA[07/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[20/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Mantes-la-Jolie recherche un aide-soignant (H/F) pour une mission ponctuelle.</span></p>
@@ -4269,16 +4269,16 @@
 <li><span>Entretenir l’environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d’hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[15€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[15€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/infirmier-courant_corbeil_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Corbeil-Essonnes]]></location>
- <slug><![CDATA[infirmier-courant_corbeil_44370]]></slug>
+ <refID><![CDATA[infirmier-courant_corbeil_44370]]></refID>
  <title><![CDATA[Infirmier H/F libéral - Soins courants]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[16/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[16/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé situé à Corbeil-Essonnes recherche un infirmier (H/F) exerçant en libéral pour une mission renfort.</span></p>
@@ -4304,16 +4304,16 @@
 <li><span>Entretenir l'environnement immédiat de la personne</span></li>
 <li><span>Dispenser les soins d'hygiène et de confort</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[37,5€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[37,5€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_hounslow_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Hounslow]]></location>
- <slug><![CDATA[cdp_hounslow_44370]]></slug>
+ <refID><![CDATA[cdp_hounslow_44370]]></refID>
  <title><![CDATA[Chef de Partie]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>The Shift</b></p>
 <p><span>Shift details:</span></p>
 <p><span>A restaurant based in Hounslow is looking for a Chef de Partie for a one-off shift.</span></p>
@@ -4339,16 +4339,16 @@
 <li><span>Overseeing the maintenance of kitchen and food safety standards</span></li>
 <li><span>Preparing, cooking and presenting high quality dishes within the speciality section</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[FREELANCE]]></contractType>
- <Salary><![CDATA[14£]]></Salary>
+ <jobType><![CDATA[FREELANCE]]></jobType>
+ <salary><![CDATA[14£]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/cdp_london_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[London]]></location>
- <slug><![CDATA[cdp_london_44370]]></slug>
+ <refID><![CDATA[cdp_london_44370]]></refID>
  <title><![CDATA[Chef de Partie]]></title>
- <startDate><![CDATA[06/07/2021]]></startDate>
- <endDate><![CDATA[11/07/2021]]></endDate>
+ <dateDeb><![CDATA[06/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[11/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>The Shift</b></p>
 <p><span>Shift details:</span></p>
 <p><span>A restaurant based in London is looking for a Chef de Partie for a one-off shift.</span></p>
@@ -4374,16 +4374,16 @@
 <li><span>Overseeing the maintenance of kitchen and food safety standards</span></li>
 <li><span>Preparing, cooking and presenting high quality dishes within the speciality section</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[FREELANCE]]></contractType>
- <Salary><![CDATA[14£]]></Salary>
+ <jobType><![CDATA[FREELANCE]]></jobType>
+ <salary><![CDATA[14£]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/sous-chef_london_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[London]]></location>
- <slug><![CDATA[sous-chef_london_44370]]></slug>
+ <refID><![CDATA[sous-chef_london_44370]]></refID>
  <title><![CDATA[Sous Chef]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>The Shift</b></p>
 <p><span>Shift details:</span></p>
 <p><span>A restaurant based in London is looking for a Sous Chef for a one-off shift.</span></p>
@@ -4409,16 +4409,16 @@
 <li><span>Supervise all food preparation and presentation to ensure quality and restaurant standard</span></li>
 <li><span>Lead kitchen team in chef's absence</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[FREELANCE]]></contractType>
- <Salary><![CDATA[15£]]></Salary>
+ <jobType><![CDATA[FREELANCE]]></jobType>
+ <salary><![CDATA[15£]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/commis-chef_london_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[London]]></location>
- <slug><![CDATA[commis-chef_london_44370]]></slug>
+ <refID><![CDATA[commis-chef_london_44370]]></refID>
  <title><![CDATA[Commis Chef]]></title>
- <startDate><![CDATA[01/07/2021]]></startDate>
- <endDate><![CDATA[07/07/2021]]></endDate>
+ <dateDeb><![CDATA[01/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[07/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>The Shift</b></p>
 <p><span>Shift details:</span></p>
 <p><span>A restaurant based in London is looking for a Commis Chef for a one-off shift.</span></p>
@@ -4444,16 +4444,16 @@
 <li><span>Follow all HACCP and safety guidelines, ensuring that food safety is adhered to throughout the venue</span></li>
 <li><span>Following the prep list created by chefs to plan duties</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[FREELANCE]]></contractType>
- <Salary><![CDATA[12£]]></Salary>
+ <jobType><![CDATA[FREELANCE]]></jobType>
+ <salary><![CDATA[12£]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/waiter_london_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[London]]></location>
- <slug><![CDATA[waiter_london_44370]]></slug>
+ <refID><![CDATA[waiter_london_44370]]></refID>
  <title><![CDATA[Waiter]]></title>
- <startDate><![CDATA[30/06/2021]]></startDate>
- <endDate><![CDATA[03/07/2021]]></endDate>
+ <dateDeb><![CDATA[30/06/2021]]></dateDeb>
+ <dateEnd><![CDATA[03/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>The Shift</b></p>
 <p><span>Shift details:</span></p>
 <p><span>A restaurant based in London is looking for a waiter for a one-off shift.</span></p>
@@ -4479,16 +4479,16 @@
 <li><span>Following health and safety standards</span></li>
 <li><span>Providing excellent wait service to ensure satisfaction</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[FREELANCE]]></contractType>
- <Salary><![CDATA[12£]]></Salary>
+ <jobType><![CDATA[FREELANCE]]></jobType>
+ <salary><![CDATA[12£]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/bartender_london_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[London]]></location>
- <slug><![CDATA[bartender_london_44370]]></slug>
+ <refID><![CDATA[bartender_london_44370]]></refID>
  <title><![CDATA[Bartender]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>The Shift</b></p>
 <p><span>Shift details:</span></p>
 <p><span>A bar based in London is looking for a bartender for a one-off shift.</span></p>
@@ -4514,16 +4514,16 @@
 <li><span>Following health and safety standards</span></li>
 <li><span>Preparing alcoholic or non-alcoholic beverages for bar and patrons</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[FREELANCE]]></contractType>
- <Salary><![CDATA[12£]]></Salary>
+ <jobType><![CDATA[FREELANCE]]></jobType>
+ <salary><![CDATA[12£]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_lille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lille]]></location>
- <slug><![CDATA[aes_lille_44370]]></slug>
+ <refID><![CDATA[aes_lille_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES / AMP)]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Lille recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4549,16 +4549,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_marseille_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Marseille]]></location>
- <slug><![CDATA[aes_marseille_44370]]></slug>
+ <refID><![CDATA[aes_marseille_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[09/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[09/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Marseille recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4584,16 +4584,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_lyon_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Lyon]]></location>
- <slug><![CDATA[aes_lyon_44370]]></slug>
+ <refID><![CDATA[aes_lyon_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[05/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[05/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Lyon recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4619,16 +4619,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_paris_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Paris]]></location>
- <slug><![CDATA[aes_paris_44370]]></slug>
+ <refID><![CDATA[aes_paris_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Paris recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4654,16 +4654,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_roubaix_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Roubaix]]></location>
- <slug><![CDATA[aes_roubaix_44370]]></slug>
+ <refID><![CDATA[aes_roubaix_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES / AMP)]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[15/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[15/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé spécialisé situé à Roubaix recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4689,16 +4689,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_aubagne_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Aubagne]]></location>
- <slug><![CDATA[aes_aubagne_44370]]></slug>
+ <refID><![CDATA[aes_aubagne_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
- <startDate><![CDATA[05/07/2021]]></startDate>
- <endDate><![CDATA[16/07/2021]]></endDate>
+ <dateDeb><![CDATA[05/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[16/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé spécialisé situé à Aubagne recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4724,16 +4724,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_venissieux_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Vénissieux]]></location>
- <slug><![CDATA[aes_venissieux_44370]]></slug>
+ <refID><![CDATA[aes_venissieux_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[12/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[12/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé spécialisé situé à Vénissieux recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4759,16 +4759,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes-handi_herblay_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Herblay]]></location>
- <slug><![CDATA[aes-handi_herblay_44370]]></slug>
+ <refID><![CDATA[aes-handi_herblay_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social - Spé Handicap H/F (AES)]]></title>
- <startDate><![CDATA[02/07/2021]]></startDate>
- <endDate><![CDATA[15/07/2021]]></endDate>
+ <dateDeb><![CDATA[02/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[15/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé spécialisé situé à Herblay recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4794,16 +4794,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_mennecy_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Mennecy]]></location>
- <slug><![CDATA[aes_mennecy_44370]]></slug>
+ <refID><![CDATA[aes_mennecy_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
- <startDate><![CDATA[04/07/2021]]></startDate>
- <endDate><![CDATA[14/07/2021]]></endDate>
+ <dateDeb><![CDATA[04/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[14/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un établissement de santé spécialisé situé à Mennecy recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4829,16 +4829,16 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job><job>
  <URL><![CDATA[https://offers.brigad.co/aes_montreuil_44370]]></URL>
- <refID><![CDATA[23/06/2021]]></refID>
+ <pubDate><![CDATA[23/06/2021]]></pubDate>
  <location><![CDATA[Montreuil]]></location>
- <slug><![CDATA[aes_montreuil_44370]]></slug>
+ <refID><![CDATA[aes_montreuil_44370]]></refID>
  <title><![CDATA[Accompagnant éducatif et social H/F (AES)]]></title>
- <startDate><![CDATA[03/07/2021]]></startDate>
- <endDate><![CDATA[08/07/2021]]></endDate>
+ <dateDeb><![CDATA[03/07/2021]]></dateDeb>
+ <dateEnd><![CDATA[08/07/2021]]></dateEnd>
  <FullDescription><![CDATA[<p><b>La mission</b></p>
 <p><span>Détails de la mission:</span></p>
 <p><span>Un EHPAD situé à Montreuil recherche un AES / AMP (H/F) pour une mission de renfort.</span></p>
@@ -4864,6 +4864,6 @@
 <li><span>Communication et collaboration avec une équipe pluridisciplinaire</span></li>
 <li><span>Accompagnement et aide individualisée aux résidents dans les actes essentiels de la vie quotidienne (mobilité, alimentation, toilette,...)</span></li>
 </ul>]]></FullDescription>
- <contractType><![CDATA[INDEPENDANT]]></contractType>
- <Salary><![CDATA[14€]]></Salary>
+ <jobType><![CDATA[INDEPENDANT]]></jobType>
+ <salary><![CDATA[14€]]></salary>
 </job></source>
