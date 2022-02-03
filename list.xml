@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
 <publisher>Brigad</publisher>
-<publisherurl>https://offers.brigad.co</publisherurl> <URL><![CDATA[https://offers.brigad.co/aes_paris_44595]]></URL>
+<publisherurl>https://offers.brigad.co</publisherurl><job>
+ <URL><![CDATA[https://offers.brigad.co/aes_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris]]></location>
  <refID><![CDATA[aes_paris_44595]]></refID>
@@ -35,7 +36,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aes-handi_herblay_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aes-handi_herblay_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Herblay]]></location>
  <refID><![CDATA[aes-handi_herblay_44595]]></refID>
@@ -69,7 +71,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aide-soignant_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aide-soignant_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris]]></location>
  <refID><![CDATA[aide-soignant_paris_44595]]></refID>
@@ -103,7 +106,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-denis_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aide-soignant_saint-denis_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Saint-Denis]]></location>
  <refID><![CDATA[aide-soignant_saint-denis_44595]]></refID>
@@ -137,7 +141,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_argenteuil_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aide-soignant-domicile_argenteuil_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Argenteuil]]></location>
  <refID><![CDATA[aide-soignant-domicile_argenteuil_44595]]></refID>
@@ -171,7 +176,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/serveur_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/serveur_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris 3]]></location>
  <refID><![CDATA[serveur_paris_44595]]></refID>
@@ -205,7 +211,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier-co_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier-co_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris 18]]></location>
  <refID><![CDATA[cuisinier-co_paris_44595]]></refID>
@@ -239,7 +246,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris 2]]></location>
  <refID><![CDATA[commis_paris_44595]]></refID>
@@ -273,7 +281,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cdp-co_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cdp-co_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris 14]]></location>
  <refID><![CDATA[cdp-co_paris_44595]]></refID>
@@ -307,7 +316,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris 10]]></location>
  <refID><![CDATA[cuisinier_paris_44595]]></refID>
@@ -341,7 +351,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cdp_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cdp_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris 3]]></location>
  <refID><![CDATA[cdp_paris_44595]]></refID>
@@ -375,7 +386,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_chelles_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_chelles_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Chelles]]></location>
  <refID><![CDATA[auxiliaire-de-vie_chelles_44595]]></refID>
@@ -409,7 +421,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris]]></location>
  <refID><![CDATA[auxiliaire-de-vie_paris_44595]]></refID>
@@ -443,7 +456,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef_paris_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef_paris_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Paris 2]]></location>
  <refID><![CDATA[chef_paris_44595]]></refID>
@@ -477,7 +491,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aide-soignant_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aide-soignant_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[aide-soignant_marseille_44595]]></refID>
@@ -511,7 +526,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aes_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aes_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[aes_marseille_44595]]></refID>
@@ -545,7 +561,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[auxiliaire-de-vie_marseille_44595]]></refID>
@@ -579,7 +596,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[cuisinier_marseille_44595]]></refID>
@@ -613,7 +631,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier_marignane_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier_marignane_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marignane]]></location>
  <refID><![CDATA[cuisinier_marignane_44595]]></refID>
@@ -647,7 +666,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier-co_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier-co_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[cuisinier-co_marseille_44595]]></refID>
@@ -681,7 +701,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[chef_marseille_44595]]></refID>
@@ -715,7 +736,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef-rang_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef-rang_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[chef-rang_marseille_44595]]></refID>
@@ -749,7 +771,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis-co_aix_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis-co_aix_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Aix-en-Provence]]></location>
  <refID><![CDATA[commis-co_aix_44595]]></refID>
@@ -783,7 +806,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis-co_aubagne_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis-co_aubagne_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Aubagne]]></location>
  <refID><![CDATA[commis-co_aubagne_44595]]></refID>
@@ -817,7 +841,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier-co_laciotat_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier-co_laciotat_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[La Ciotat]]></location>
  <refID><![CDATA[cuisinier-co_laciotat_44595]]></refID>
@@ -851,7 +876,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/serveur_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/serveur_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[serveur_marseille_44595]]></refID>
@@ -885,7 +911,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/runner_marseille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/runner_marseille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Marseille]]></location>
  <refID><![CDATA[runner_marseille_44595]]></refID>
@@ -919,7 +946,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[13,5€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/serveur_aix_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/serveur_aix_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Aix-en-Provence]]></location>
  <refID><![CDATA[serveur_aix_44595]]></refID>
@@ -953,7 +981,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aes_lyon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aes_lyon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[aes_lyon_44595]]></refID>
@@ -987,7 +1016,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aide-soignant_lyon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aide-soignant_lyon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[aide-soignant_lyon_44595]]></refID>
@@ -1021,7 +1051,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lyon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lyon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[auxiliaire-de-vie_lyon_44595]]></refID>
@@ -1055,7 +1086,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef_villeurbanne_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef_villeurbanne_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
  <refID><![CDATA[chef_villeurbanne_44595]]></refID>
@@ -1089,7 +1121,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis-co_L_lyon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis-co_L_lyon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[commis-co_L_lyon_44595]]></refID>
@@ -1123,7 +1156,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier_vaulx_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier_vaulx_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Vaulx-en-Velin]]></location>
  <refID><![CDATA[cuisinier_vaulx_44595]]></refID>
@@ -1157,7 +1191,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/serveur_villeurbanne_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/serveur_villeurbanne_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Villeurbanne]]></location>
  <refID><![CDATA[serveur_villeurbanne_44595]]></refID>
@@ -1191,7 +1226,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef_lyon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef_lyon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[chef_lyon_44595]]></refID>
@@ -1225,7 +1261,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/serveur_lyon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/serveur_lyon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lyon]]></location>
  <refID><![CDATA[serveur_lyon_44595]]></refID>
@@ -1259,7 +1296,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/waiter_north-west-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/waiter_north-west-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[North West London]]></location>
  <refID><![CDATA[waiter_north-west-london_44595]]></refID>
@@ -1293,7 +1331,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/bartender_croydon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/bartender_croydon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Croydon]]></location>
  <refID><![CDATA[bartender_croydon_44595]]></refID>
@@ -1327,7 +1366,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cdp_east-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cdp_east-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[East London]]></location>
  <refID><![CDATA[cdp_east-london_44595]]></refID>
@@ -1361,7 +1401,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[14£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis-chef_south-east-ondon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis-chef_south-east-ondon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[South East London]]></location>
  <refID><![CDATA[commis-chef_south-east-ondon_44595]]></refID>
@@ -1395,7 +1436,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cook_east-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cook_east-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[East London]]></location>
  <refID><![CDATA[cook_east-london_44595]]></refID>
@@ -1429,7 +1471,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/sous-chef_south-east-ondon_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/sous-chef_south-east-ondon_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[South East London]]></location>
  <refID><![CDATA[sous-chef_south-east-ondon_44595]]></refID>
@@ -1463,7 +1506,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[15£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis-chef_hounslow_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis-chef_hounslow_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Hounslow]]></location>
  <refID><![CDATA[commis-chef_hounslow_44595]]></refID>
@@ -1497,7 +1541,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/bartender_central-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/bartender_central-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Central London]]></location>
  <refID><![CDATA[bartender_central-london_44595]]></refID>
@@ -1531,7 +1576,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cook_central-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cook_central-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Central London]]></location>
  <refID><![CDATA[cook_central-london_44595]]></refID>
@@ -1565,7 +1611,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/waiter_central-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/waiter_central-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Central London]]></location>
  <refID><![CDATA[waiter_central-london_44595]]></refID>
@@ -1599,7 +1646,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[12£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cdp_east-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cdp_east-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[East London]]></location>
  <refID><![CDATA[cdp_east-london_44595]]></refID>
@@ -1633,7 +1681,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[14£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/head-chef_central-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/head-chef_central-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Central London]]></location>
  <refID><![CDATA[head-chef_central-london_44595]]></refID>
@@ -1667,7 +1716,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[17£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/kitchen-porter_central-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/kitchen-porter_central-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Central London]]></location>
  <refID><![CDATA[kitchen-porter_central-london_44595]]></refID>
@@ -1701,7 +1751,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[11£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/kitchen-porter_east-london_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/kitchen-porter_east-london_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[East London]]></location>
  <refID><![CDATA[kitchen-porter_east-london_44595]]></refID>
@@ -1735,7 +1786,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[FREELANCE]]></jobType>
  <salary><![CDATA[11£]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aes_lille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aes_lille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[aes_lille_44595]]></refID>
@@ -1769,7 +1821,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/aide-soignant_lille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/aide-soignant_lille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[aide-soignant_lille_44595]]></refID>
@@ -1803,7 +1856,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/auxiliaire-de-vie_lille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[auxiliaire-de-vie_lille_44595]]></refID>
@@ -1837,7 +1891,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef_lille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef_lille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[chef_lille_44595]]></refID>
@@ -1871,7 +1926,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis-co_douai_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis-co_douai_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Douai]]></location>
  <refID><![CDATA[commis-co_douai_44595]]></refID>
@@ -1905,7 +1961,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier_lille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier_lille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[cuisinier_lille_44595]]></refID>
@@ -1939,7 +1996,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/serveur_lille_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/serveur_lille_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lille]]></location>
  <refID><![CDATA[serveur_lille_44595]]></refID>
@@ -1973,7 +2031,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/runner_lens_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/runner_lens_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Lens]]></location>
  <refID><![CDATA[runner_lens_44595]]></refID>
@@ -2007,7 +2066,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[13,5€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef-rang_bordeaux_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef-rang_bordeaux_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
  <refID><![CDATA[chef-rang_bordeaux_44595]]></refID>
@@ -2041,7 +2101,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier_L_talence_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier_L_talence_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Talence]]></location>
  <refID><![CDATA[cuisinier_L_talence_44595]]></refID>
@@ -2075,7 +2136,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/cuisinier-co_bordeaux_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/cuisinier-co_bordeaux_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
  <refID><![CDATA[cuisinier-co_bordeaux_44595]]></refID>
@@ -2109,7 +2171,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[15€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef_pessac_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef_pessac_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Pessac]]></location>
  <refID><![CDATA[chef_pessac_44595]]></refID>
@@ -2143,7 +2206,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/commis_bordeaux_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/commis_bordeaux_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
  <refID><![CDATA[commis_bordeaux_44595]]></refID>
@@ -2177,7 +2241,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[14€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/chef_L_bordeaux_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/chef_L_bordeaux_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
  <refID><![CDATA[chef_L_bordeaux_44595]]></refID>
@@ -2211,7 +2276,8 @@
 </ul>]]></FullDescription>
  <jobType><![CDATA[INDEPENDANT]]></jobType>
  <salary><![CDATA[20€]]></salary>
-</job> <URL><![CDATA[https://offers.brigad.co/serveur_bordeaux_44595]]></URL>
+</job><job>
+ <URL><![CDATA[https://offers.brigad.co/serveur_bordeaux_44595]]></URL>
  <pubDate><![CDATA[03/02/2022]]></pubDate>
  <location><![CDATA[Bordeaux]]></location>
  <refID><![CDATA[serveur_bordeaux_44595]]></refID>
